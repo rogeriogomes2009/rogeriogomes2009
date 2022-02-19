@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Ol´, eu sou Rogério Gomes, Desenvolvedor Fullstack em tempo integral 👨‍💻🚀</div>  
+### <div align="center">Olá, eu sou Rogério Gomes, Desenvolvedor Fullstack em tempo integral 👨‍💻🚀</div>  
   
 <br/>  
 
