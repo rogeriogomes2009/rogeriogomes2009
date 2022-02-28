@@ -65,10 +65,8 @@
 <br/>  
 
 
-## Recent Blog Posts  
-
-
-### Sobre mim  
+## Sobre mim  
+ 
 <!-- BLOG-POST-LIST:START -->  
 Tenho verdadeira paixão por tudo que envolve tecnologia e, pra mim, tem sido muito gratificante poder desenvolver
 meus conhecimentos e projetos neste mundo tão vasto como é o do DESENVOLVIMENTO WEB, SOFTWARES e
